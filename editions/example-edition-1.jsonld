@@ -1,0 +1,1 @@
+{"@context":"http://schema.org","@type":"Book","name":"Example Book Title","author":{"@type":"Person","name":"Author Name"},"isbn":"978-3-16-148410-0","datePublished":"2021-01-01"}
