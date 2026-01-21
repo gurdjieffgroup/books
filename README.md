@@ -1,2 +1,2 @@
 # books
-gurdjieff books
+work books
